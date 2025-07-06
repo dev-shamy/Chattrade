@@ -1,21 +1,3 @@
-// const sortArray = () => {
-//   const a = [10, 9, 3, 12, 15, 11];
-//   const n = a.length;
-
-//   for (let i = 0; i < n - 1; i++) {
-//     for (let k = 0; k < n-i; k++) {
-//       if (a[k] > a[k + 1]) {
-//         let temp = a[k];
-//         a[k] = a[k + 1];
-//         a[k + 1] = temp;
-//       }
-//     }
-//   }
-
-//   console.log("Sorted Array is: b", a);
-// };
-
-// sortArray();
 
 const test = () => {
   a = [2, 3, ];
